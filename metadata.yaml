@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41836
     wikipedia: https://en.wikipedia.org/wiki/John_Stoughton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43494#Congregationalism-in-the-Court-Suburb
 gutenberg_issued: '2013-08-18'
 gutenberg_type: Text
 identifiers:
